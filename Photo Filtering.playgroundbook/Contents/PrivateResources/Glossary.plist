@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Convolution</key>
+		<dict>
+			<key>Definition</key>
+			<string>It is a mathematical operation on two functions to produce a third one. This third function expresses how the shape of the first one is modified by the second.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Photo%20Filtering/Photo%20Filtering</string>
+				<key>Title</key>
+				<string>Convolution</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
